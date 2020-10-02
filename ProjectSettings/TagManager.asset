@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Box
+  - Edge
+  - Stone
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Box
+  - Enemy
+  - Doors
+  - Player
+  - Level
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2317454311
+    locked: 0
+  - name: Level
+    uniqueID: 48022095
+    locked: 0
+  - name: Doors
+    uniqueID: 1676115987
+    locked: 0
+  - name: Player
+    uniqueID: 539255239
+    locked: 0
+  - name: PressurePlates
+    uniqueID: 630886503
+    locked: 0
+  - name: Box
+    uniqueID: 313777393
+    locked: 0
